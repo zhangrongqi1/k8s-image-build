@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.1
+FROM docker.io/bitnami/nginx-ingress-controller:1.10.0-debian-12-r2
