@@ -1,1 +1,1 @@
-FROM rancher/mirrored-ingress-nginx-kube-webhook-certgen:v1.3.0
+FROM rancher/mirrored-idealista-prom2teams:4.2.0
