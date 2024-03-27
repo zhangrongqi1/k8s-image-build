@@ -1,1 +1,1 @@
-FROM registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.11.0
+FROM registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.11.2
