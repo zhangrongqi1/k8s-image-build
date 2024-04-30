@@ -1,1 +1,1 @@
-FROM rancher/shell:v0.1.23
+FROM rancher/gitjob:v0.1.32
