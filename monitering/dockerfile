@@ -1,1 +1,1 @@
-FROM percona/mongodb_exporter:0.40
+FROM oliver006/redis_exporter:latest
