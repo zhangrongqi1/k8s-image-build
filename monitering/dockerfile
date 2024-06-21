@@ -1,1 +1,1 @@
-FROM quay.io/oliver006/redis_exporter
+FROM bkce/cmdb:latest
