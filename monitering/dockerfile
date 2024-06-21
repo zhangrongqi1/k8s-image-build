@@ -1,1 +1,1 @@
-FROM bkce/cmdb:latest
+FROM mysql:5.7
