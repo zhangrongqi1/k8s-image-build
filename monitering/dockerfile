@@ -1,1 +1,1 @@
-FROM weiyicmdb/weiyi-cmdb:latest
+FROM ceph/ceph:v15
