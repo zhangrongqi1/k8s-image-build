@@ -1,1 +1,1 @@
-FROM fedora:26
+FROM kubernetesui/metrics-scraper:v1.0.4
