@@ -1,1 +1,1 @@
-FROM grafana/grafana:8.3.5
+FROM docker.io/bitnami/zookeeper:3.7.0-debian-10-r56
