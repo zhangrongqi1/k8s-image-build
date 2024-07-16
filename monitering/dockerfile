@@ -1,1 +1,1 @@
-FROM  kalilinux/kali-last-release:latest
+FROM  mysql:5.7
