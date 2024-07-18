@@ -1,1 +1,1 @@
-FROM ollama/ollama:latest
+FROM imroc/open-webui:main
