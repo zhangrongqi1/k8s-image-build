@@ -1,1 +1,1 @@
-FROM opsany/guacd:1.2.0
+FROM opsany/opsant:1.0.0
