@@ -1,1 +1,1 @@
-FROM semaphoreui/semaphore:latest
+FROM opsany/redis:6.0.9-alpine
