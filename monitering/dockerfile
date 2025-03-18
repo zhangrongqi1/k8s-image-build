@@ -1,1 +1,1 @@
-FROM node:18.20.7
+FROM joinsunsoft/docker.ui
