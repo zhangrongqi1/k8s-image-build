@@ -1,1 +1,1 @@
-FROM 0nlylty/dockercopilot
+FROM docker.io/bitnami/harbor-registry:2
