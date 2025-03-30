@@ -1,1 +1,1 @@
-FROM alanpeng/harbor_images_aarch64:v2.12.2
+FROM goharbor/prepare:v2.12.2-aarch64
